@@ -1,0 +1,815 @@
+Cmp-Mod V01 Created by Cvpcb (2014-10-15 BZR 5191)-product   date = czw, 23 paź 2014, 22:41:25
+
+BeginCmp
+TimeStamp = /543E985B/543DF7B6;
+Reference = C201;
+ValeurCmp = 47u;
+IdModule  = Newlib:CAPPR_P50D63;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543E0791;
+Reference = C202;
+ValeurCmp = 0.33u;
+IdModule  = Newlib:CAPRR_P50W45L72;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543DEA4F;
+Reference = C203;
+ValeurCmp = 1n;
+IdModule  = Newlib:CAPRR_P50W25L72;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543DE331;
+Reference = C204;
+ValeurCmp = 100u;
+IdModule  = Newlib:CAPPR_P25D50;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543DC02B;
+Reference = C205;
+ValeurCmp = 47u;
+IdModule  = Newlib:CAPPR_P50D63;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543E42C8;
+Reference = C206;
+ValeurCmp = 47p;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543DB4D4;
+Reference = C207;
+ValeurCmp = 47u;
+IdModule  = Newlib:CAPPR_P50D63;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543D752D;
+Reference = C208;
+ValeurCmp = 0.1u;
+IdModule  = Newlib:CAPRR_P50W25L72;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543D7EF4;
+Reference = C209;
+ValeurCmp = 100u;
+IdModule  = Newlib:CAPPR_P25D50;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543D7D4D;
+Reference = C210;
+ValeurCmp = 0.22u;
+IdModule  = Newlib:CAPRR_P50W50L72;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543D89DF;
+Reference = C211;
+ValeurCmp = 2200u;
+IdModule  = Newlib:CAPPR_P75D160;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543DF7B6;
+Reference = C301;
+ValeurCmp = 47u;
+IdModule  = Newlib:CAPPR_P50D63;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543E0791;
+Reference = C302;
+ValeurCmp = 0.33u;
+IdModule  = Newlib:CAPRR_P50W45L72;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543DEA4F;
+Reference = C303;
+ValeurCmp = 1n;
+IdModule  = Newlib:CAPRR_P50W25L72;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543DE331;
+Reference = C304;
+ValeurCmp = 100u;
+IdModule  = Newlib:CAPPR_P25D50;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543DC02B;
+Reference = C305;
+ValeurCmp = 47u;
+IdModule  = Newlib:CAPPR_P50D63;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543E42C8;
+Reference = C306;
+ValeurCmp = 47p;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543DB4D4;
+Reference = C307;
+ValeurCmp = 47u;
+IdModule  = Newlib:CAPPR_P50D63;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543D752D;
+Reference = C308;
+ValeurCmp = 0.1u;
+IdModule  = Newlib:CAPRR_P50W25L72;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543D7EF4;
+Reference = C309;
+ValeurCmp = 100u;
+IdModule  = Newlib:CAPPR_P25D50;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543D7D4D;
+Reference = C310;
+ValeurCmp = 0.22u;
+IdModule  = Newlib:CAPRR_P50W50L72;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543D89DF;
+Reference = C311;
+ValeurCmp = 2200u;
+IdModule  = Newlib:CAPPR_P75D160;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D89A0/543D9AE2;
+Reference = C401;
+ValeurCmp = 15n;
+IdModule  = Newlib:CAPRR_P100W40L125;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D89A0/543DB596;
+Reference = C402;
+ValeurCmp = 15n;
+IdModule  = Newlib:CAPRR_P100W40L125;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D89A0/543D9DB0;
+Reference = C403;
+ValeurCmp = 10n;
+IdModule  = Newlib:CAPRR_P100W40L125;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D89A0/543DB07A;
+Reference = C404;
+ValeurCmp = 10n;
+IdModule  = Newlib:CAPRR_P100W40L125;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D89A0/543DA100;
+Reference = C405;
+ValeurCmp = 15n;
+IdModule  = Newlib:CAPRR_P100W40L125;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D89A0/543DBA1F;
+Reference = C406;
+ValeurCmp = 15n;
+IdModule  = Newlib:CAPRR_P100W40L125;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D89A0/543DC2AE;
+Reference = C407;
+ValeurCmp = 1n;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D89A0/543DC504;
+Reference = C408;
+ValeurCmp = 1n;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EAC44/543F2FC9;
+Reference = C501;
+ValeurCmp = 0.47u;
+IdModule  = Newlib:CAPRR_P50W60L72;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EAC44/543F310E;
+Reference = C502;
+ValeurCmp = 47n;
+IdModule  = Newlib:CAPRR_P150W50L180;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EAC44/543F31B3;
+Reference = C503;
+ValeurCmp = 3300u;
+IdModule  = Newlib:CAPPR_P75D180;
+EndCmp
+
+BeginCmp
+TimeStamp = /543ED58C/543F2FC9;
+Reference = C601;
+ValeurCmp = 0.47u;
+IdModule  = Newlib:CAPRR_P50W60L72;
+EndCmp
+
+BeginCmp
+TimeStamp = /543ED58C/543F310E;
+Reference = C602;
+ValeurCmp = 47n;
+IdModule  = Newlib:CAPRR_P150W50L180;
+EndCmp
+
+BeginCmp
+TimeStamp = /543ED58C/543F31B3;
+Reference = C603;
+ValeurCmp = 3300u;
+IdModule  = Newlib:CAPPR_P75D180;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EAC44/543F2EEA;
+Reference = D501;
+ValeurCmp = BRIDGERECT;
+IdModule  = Newlib:KBPC606;
+EndCmp
+
+BeginCmp
+TimeStamp = /543ED58C/543F2EEA;
+Reference = D601;
+ValeurCmp = BRIDGERECT;
+IdModule  = Newlib:KBPC606;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D94D6;
+Reference = J101;
+ValeurCmp = HEADER1X2;
+IdModule  = Pinhead:HEADER1x2V;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D9570;
+Reference = J102;
+ValeurCmp = HEADER1X2;
+IdModule  = Pinhead:HEADER1x2V;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EB574;
+Reference = J103;
+ValeurCmp = HEADER1X2;
+IdModule  = Pinhead:STL1550%2f2-GH;
+EndCmp
+
+BeginCmp
+TimeStamp = /543ED587;
+Reference = J104;
+ValeurCmp = HEADER1X2;
+IdModule  = Pinhead:STL1550%2f2-GH;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D88B1;
+Reference = J105;
+ValeurCmp = HEADER1X5;
+IdModule  = Pinhead:HEADER1x5V;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EE5CE;
+Reference = J106;
+ValeurCmp = VCCL;
+IdModule  = Newlib:MountHole_D4P6;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EE511;
+Reference = J107;
+ValeurCmp = VCCR;
+IdModule  = Newlib:MountHole_D4P6;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EB287;
+Reference = J108;
+ValeurCmp = HEADER1X5;
+IdModule  = Pinhead:HEADER1x5V;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EACAB;
+Reference = J109;
+ValeurCmp = HEADER1X2;
+IdModule  = Pinhead:STL1550%2f2-GH;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EAC46;
+Reference = J110;
+ValeurCmp = HEADER1X2;
+IdModule  = Pinhead:STL1550%2f2-GH;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/54485C7E;
+Reference = Q201;
+ValeurCmp = BC309B;
+IdModule  = Newlib:TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/54485C03;
+Reference = Q202;
+ValeurCmp = BC237B;
+IdModule  = Newlib:TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/544844FD;
+Reference = Q203;
+ValeurCmp = BD135;
+IdModule  = Newlib:TO126-V;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/54484094;
+Reference = Q204;
+ValeurCmp = BD136;
+IdModule  = Newlib:TO126-V;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/544834E1;
+Reference = Q205;
+ValeurCmp = BD243C;
+IdModule  = Newlib:TO220-V;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/54482E54;
+Reference = Q206;
+ValeurCmp = BD244C;
+IdModule  = Newlib:TO220-V;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/54485C7E;
+Reference = Q301;
+ValeurCmp = BC309B;
+IdModule  = Newlib:TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/54485C03;
+Reference = Q302;
+ValeurCmp = BC237B;
+IdModule  = Newlib:TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/544844FD;
+Reference = Q303;
+ValeurCmp = BD135;
+IdModule  = Newlib:TO126-V;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/54484094;
+Reference = Q304;
+ValeurCmp = BD136;
+IdModule  = Newlib:TO126-V;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/544834E1;
+Reference = Q305;
+ValeurCmp = BD243C;
+IdModule  = Newlib:TO220-V;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/54482E54;
+Reference = Q306;
+ValeurCmp = BD244C;
+IdModule  = Newlib:TO220-V;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543E3138;
+Reference = R201;
+ValeurCmp = 82k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543DEF8E;
+Reference = R202;
+ValeurCmp = 120k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543DF159;
+Reference = R203;
+ValeurCmp = 33k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543DEE72;
+Reference = R204;
+ValeurCmp = 1.2k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543DF0CA;
+Reference = R205;
+ValeurCmp = 47k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543DD40A;
+Reference = R206;
+ValeurCmp = 10k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543E379D;
+Reference = R207;
+ValeurCmp = 100;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543DD364;
+Reference = R208;
+ValeurCmp = 10;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543DA821;
+Reference = R209;
+ValeurCmp = 1.5k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543DA763;
+Reference = R210;
+ValeurCmp = 2.2k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543DE1E2;
+Reference = R211;
+ValeurCmp = 10k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543E436B;
+Reference = R212;
+ValeurCmp = 1.2k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543DCE0C;
+Reference = R213;
+ValeurCmp = 470;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543DA651;
+Reference = R214;
+ValeurCmp = 1k;
+IdModule  = Newlib:RESA_D20L40;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543D9DC8;
+Reference = R215;
+ValeurCmp = 250;
+IdModule  = Newlib:RM-65;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543D9116;
+Reference = R216;
+ValeurCmp = 18;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543D9852;
+Reference = R217;
+ValeurCmp = 22;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543D9C6A;
+Reference = R218;
+ValeurCmp = 5.6;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543D8DDF;
+Reference = R219;
+ValeurCmp = 68;
+IdModule  = Newlib:RESA_D40L110;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543D710F;
+Reference = R220;
+ValeurCmp = 0.39;
+IdModule  = Newlib:RESA_D30L90;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543D7C67;
+Reference = R221;
+ValeurCmp = 15k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543D7D90;
+Reference = R222;
+ValeurCmp = 68;
+IdModule  = Newlib:RESA_D40L110;
+EndCmp
+
+BeginCmp
+TimeStamp = /543E985B/543D7F5C;
+Reference = R223;
+ValeurCmp = 10;
+IdModule  = Newlib:RESA_D30L90;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543E3138;
+Reference = R301;
+ValeurCmp = 82k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543DEF8E;
+Reference = R302;
+ValeurCmp = 120k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543DF159;
+Reference = R303;
+ValeurCmp = 33k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543DEE72;
+Reference = R304;
+ValeurCmp = 1.2k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543DF0CA;
+Reference = R305;
+ValeurCmp = 47k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543DD40A;
+Reference = R306;
+ValeurCmp = 10k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543E379D;
+Reference = R307;
+ValeurCmp = 100;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543DD364;
+Reference = R308;
+ValeurCmp = 10;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543DA821;
+Reference = R309;
+ValeurCmp = 1.5k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543DA763;
+Reference = R310;
+ValeurCmp = 2.2k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543DE1E2;
+Reference = R311;
+ValeurCmp = 10k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543E436B;
+Reference = R312;
+ValeurCmp = 1.2k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543DCE0C;
+Reference = R313;
+ValeurCmp = 470;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543DA651;
+Reference = R314;
+ValeurCmp = 1k;
+IdModule  = Newlib:RESA_D20L40;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543D9DC8;
+Reference = R315;
+ValeurCmp = 250;
+IdModule  = Newlib:RM-65;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543D9116;
+Reference = R316;
+ValeurCmp = 18;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543D9852;
+Reference = R317;
+ValeurCmp = 22;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543D9C6A;
+Reference = R318;
+ValeurCmp = 5.6;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543D8DDF;
+Reference = R319;
+ValeurCmp = 68;
+IdModule  = Newlib:RESA_D40L110;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543D710F;
+Reference = R320;
+ValeurCmp = 0.39;
+IdModule  = Newlib:RESA_D30L90;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543D7C67;
+Reference = R321;
+ValeurCmp = 15k;
+IdModule  = Newlib:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543D7D90;
+Reference = R322;
+ValeurCmp = 68;
+IdModule  = Newlib:RESA_D40L110;
+EndCmp
+
+BeginCmp
+TimeStamp = /543EA632/543D7F5C;
+Reference = R323;
+ValeurCmp = 10;
+IdModule  = Newlib:RESA_D30L90;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D89A0/543D9968;
+Reference = R401;
+ValeurCmp = 500k;
+IdModule  = Newlib:POT_AUDIO_R6_DUAL_H;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D89A0/543D9E06;
+Reference = R402;
+ValeurCmp = 100k;
+IdModule  = Newlib:POT_AUDIO_R6_DUAL_H;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D89A0/543D9FCF;
+Reference = R403;
+ValeurCmp = 10k;
+IdModule  = Newlib:RESA_D20L40;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D89A0/543DB993;
+Reference = R404;
+ValeurCmp = 10k;
+IdModule  = Newlib:RESA_D20L40;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D89A0/543DA4D4;
+Reference = R405;
+ValeurCmp = 2.2k;
+IdModule  = Newlib:RESA_D20L40;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D89A0/543DA3DD;
+Reference = R406;
+ValeurCmp = POT;
+IdModule  = Newlib:POT_AUDIO_R6_H;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D89A0/543DA83A;
+Reference = R407;
+ValeurCmp = 2.2k;
+IdModule  = Newlib:RESA_D20L40;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D89A0/543DAB5F;
+Reference = R408;
+ValeurCmp = 2.2k;
+IdModule  = Newlib:RESA_D20L40;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D89A0/543DABF2;
+Reference = R409;
+ValeurCmp = 100k;
+IdModule  = Newlib:POT_AUDIO_R6_DUAL_H;
+EndCmp
+
+BeginCmp
+TimeStamp = /543D89A0/543DBC35;
+Reference = R410;
+ValeurCmp = 2.2k;
+IdModule  = Newlib:RESA_D20L40;
+EndCmp
+
+EndListe
