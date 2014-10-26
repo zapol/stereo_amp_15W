@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-15 BZR 5191)-product   date = czw, 23 paź 2014, 22:41:25
+Cmp-Mod V01 Created by Cvpcb (2014-10-15 BZR 5191)-product   date = nie, 26 paź 2014, 10:58:28
 
 BeginCmp
 TimeStamp = /543E985B/543DF7B6;
@@ -295,10 +295,10 @@ IdModule  = Pinhead:STL1550%2f2-GH;
 EndCmp
 
 BeginCmp
-TimeStamp = /543D88B1;
+TimeStamp = /544CC4F2;
 Reference = J105;
-ValeurCmp = HEADER1X5;
-IdModule  = Pinhead:HEADER1x5V;
+ValeurCmp = HEADER1X3;
+IdModule  = Pinhead:HEADER1x3V;
 EndCmp
 
 BeginCmp
@@ -316,10 +316,10 @@ IdModule  = Newlib:MountHole_D4P6;
 EndCmp
 
 BeginCmp
-TimeStamp = /543EB287;
+TimeStamp = /544CCB12;
 Reference = J108;
-ValeurCmp = HEADER1X5;
-IdModule  = Pinhead:HEADER1x5V;
+ValeurCmp = HEADER1X3;
+IdModule  = Pinhead:HEADER1x3V;
 EndCmp
 
 BeginCmp
@@ -334,6 +334,20 @@ TimeStamp = /543EAC46;
 Reference = J110;
 ValeurCmp = HEADER1X2;
 IdModule  = Pinhead:STL1550%2f2-GH;
+EndCmp
+
+BeginCmp
+TimeStamp = /544CCB42;
+Reference = J111;
+ValeurCmp = HEADER1X3;
+IdModule  = Pinhead:HEADER1x3V;
+EndCmp
+
+BeginCmp
+TimeStamp = /544CCB7D;
+Reference = J112;
+ValeurCmp = HEADER1X3;
+IdModule  = Pinhead:HEADER1x3V;
 EndCmp
 
 BeginCmp
@@ -550,7 +564,7 @@ BeginCmp
 TimeStamp = /543E985B/543D8DDF;
 Reference = R219;
 ValeurCmp = 68;
-IdModule  = Newlib:RESA_D40L110;
+IdModule  = Newlib:RESR_D40P40;
 EndCmp
 
 BeginCmp
@@ -711,7 +725,7 @@ BeginCmp
 TimeStamp = /543EA632/543D8DDF;
 Reference = R319;
 ValeurCmp = 68;
-IdModule  = Newlib:RESA_D40L110;
+IdModule  = Newlib:RESR_D40P40;
 EndCmp
 
 BeginCmp
