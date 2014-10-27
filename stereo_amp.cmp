@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-15 BZR 5191)-product   date = nie, 26 paź 2014, 10:58:28
+Cmp-Mod V01 Created by Cvpcb (2014-10-15 BZR 5191)-product   date = pon, 27 paź 2014, 19:10:32
 
 BeginCmp
 TimeStamp = /543E985B/543DF7B6;
@@ -564,7 +564,7 @@ BeginCmp
 TimeStamp = /543E985B/543D8DDF;
 Reference = R219;
 ValeurCmp = 68;
-IdModule  = Newlib:RESR_D40P40;
+IdModule  = Newlib:RESA_D40L110;
 EndCmp
 
 BeginCmp
@@ -585,14 +585,14 @@ BeginCmp
 TimeStamp = /543E985B/543D7D90;
 Reference = R222;
 ValeurCmp = 68;
-IdModule  = Newlib:RESA_D40L110;
+IdModule  = Newlib:RESR_D40P40;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543D7F5C;
 Reference = R223;
 ValeurCmp = 10;
-IdModule  = Newlib:RESA_D30L90;
+IdModule  = Newlib:RESR_D30P40;
 EndCmp
 
 BeginCmp
@@ -725,7 +725,7 @@ BeginCmp
 TimeStamp = /543EA632/543D8DDF;
 Reference = R319;
 ValeurCmp = 68;
-IdModule  = Newlib:RESR_D40P40;
+IdModule  = Newlib:RESA_D40L110;
 EndCmp
 
 BeginCmp
@@ -746,14 +746,14 @@ BeginCmp
 TimeStamp = /543EA632/543D7D90;
 Reference = R322;
 ValeurCmp = 68;
-IdModule  = Newlib:RESA_D40L110;
+IdModule  = Newlib:RESR_D40P40;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543D7F5C;
 Reference = R323;
 ValeurCmp = 10;
-IdModule  = Newlib:RESA_D30L90;
+IdModule  = Newlib:RESR_D30P40;
 EndCmp
 
 BeginCmp
