@@ -1,8 +1,6 @@
 EESchema Schematic File Version 2
-LIBS:z_newlib
-LIBS:z_power
 LIBS:stereo_amp-cache
-EELAYER 25 0
+EELAYER 24 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8

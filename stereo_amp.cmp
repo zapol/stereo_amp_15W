@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-15 BZR 5191)-product   date = pon, 27 paź 2014, 19:10:32
+Cmp-Mod V01 Created by Cvpcb (2014-07-31 BZR 5040)-product   date = Tue 28 Oct 2014 10:46:10 AM CET
 
 BeginCmp
 TimeStamp = /543E985B/543DF7B6;
@@ -11,7 +11,7 @@ BeginCmp
 TimeStamp = /543E985B/543E0791;
 Reference = C202;
 ValeurCmp = 0.33u;
-IdModule  = Newlib:CAPRR_P50W45L72;
+IdModule  = Newlib:CAPRR_P50W35L72;
 EndCmp
 
 BeginCmp
@@ -39,7 +39,7 @@ BeginCmp
 TimeStamp = /543E985B/543E42C8;
 Reference = C206;
 ValeurCmp = 47p;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:CAPRR_P30W20L40;
 EndCmp
 
 BeginCmp
@@ -67,7 +67,7 @@ BeginCmp
 TimeStamp = /543E985B/543D7D4D;
 Reference = C210;
 ValeurCmp = 0.22u;
-IdModule  = Newlib:CAPRR_P50W50L72;
+IdModule  = Newlib:CAPRR_P50W35L72;
 EndCmp
 
 BeginCmp
@@ -88,7 +88,7 @@ BeginCmp
 TimeStamp = /543EA632/543E0791;
 Reference = C302;
 ValeurCmp = 0.33u;
-IdModule  = Newlib:CAPRR_P50W45L72;
+IdModule  = Newlib:CAPRR_P50W35L72;
 EndCmp
 
 BeginCmp
@@ -116,7 +116,7 @@ BeginCmp
 TimeStamp = /543EA632/543E42C8;
 Reference = C306;
 ValeurCmp = 47p;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:CAPRR_P30W20L40;
 EndCmp
 
 BeginCmp
@@ -144,7 +144,7 @@ BeginCmp
 TimeStamp = /543EA632/543D7D4D;
 Reference = C310;
 ValeurCmp = 0.22u;
-IdModule  = Newlib:CAPRR_P50W50L72;
+IdModule  = Newlib:CAPRR_P50W35L72;
 EndCmp
 
 BeginCmp
@@ -158,42 +158,42 @@ BeginCmp
 TimeStamp = /543D89A0/543D9AE2;
 Reference = C401;
 ValeurCmp = 15n;
-IdModule  = Newlib:CAPRR_P100W40L125;
+IdModule  = Newlib:CAPRR_P50W25L72;
 EndCmp
 
 BeginCmp
 TimeStamp = /543D89A0/543DB596;
 Reference = C402;
 ValeurCmp = 15n;
-IdModule  = Newlib:CAPRR_P100W40L125;
+IdModule  = Newlib:CAPRR_P50W25L72;
 EndCmp
 
 BeginCmp
 TimeStamp = /543D89A0/543D9DB0;
 Reference = C403;
 ValeurCmp = 10n;
-IdModule  = Newlib:CAPRR_P100W40L125;
+IdModule  = Newlib:CAPRR_P50W25L72;
 EndCmp
 
 BeginCmp
 TimeStamp = /543D89A0/543DB07A;
 Reference = C404;
 ValeurCmp = 10n;
-IdModule  = Newlib:CAPRR_P100W40L125;
+IdModule  = Newlib:CAPRR_P50W25L72;
 EndCmp
 
 BeginCmp
 TimeStamp = /543D89A0/543DA100;
 Reference = C405;
 ValeurCmp = 15n;
-IdModule  = Newlib:CAPRR_P100W40L125;
+IdModule  = Newlib:CAPRR_P50W25L72;
 EndCmp
 
 BeginCmp
 TimeStamp = /543D89A0/543DBA1F;
 Reference = C406;
 ValeurCmp = 15n;
-IdModule  = Newlib:CAPRR_P100W40L125;
+IdModule  = Newlib:CAPRR_P50W25L72;
 EndCmp
 
 BeginCmp
@@ -214,14 +214,14 @@ BeginCmp
 TimeStamp = /543EAC44/543F2FC9;
 Reference = C501;
 ValeurCmp = 0.47u;
-IdModule  = Newlib:CAPRR_P50W60L72;
+IdModule  = Newlib:CAPRR_P50W50L72;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EAC44/543F310E;
 Reference = C502;
 ValeurCmp = 47n;
-IdModule  = Newlib:CAPRR_P150W50L180;
+IdModule  = Newlib:CAPRR_P50W25L72;
 EndCmp
 
 BeginCmp
@@ -235,14 +235,14 @@ BeginCmp
 TimeStamp = /543ED58C/543F2FC9;
 Reference = C601;
 ValeurCmp = 0.47u;
-IdModule  = Newlib:CAPRR_P50W60L72;
+IdModule  = Newlib:CAPRR_P50W50L72;
 EndCmp
 
 BeginCmp
 TimeStamp = /543ED58C/543F310E;
 Reference = C602;
 ValeurCmp = 47n;
-IdModule  = Newlib:CAPRR_P150W50L180;
+IdModule  = Newlib:CAPRR_P50W25L72;
 EndCmp
 
 BeginCmp
@@ -438,133 +438,133 @@ BeginCmp
 TimeStamp = /543E985B/543E3138;
 Reference = R201;
 ValeurCmp = 82k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543DEF8E;
 Reference = R202;
 ValeurCmp = 120k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543DF159;
 Reference = R203;
 ValeurCmp = 33k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543DEE72;
 Reference = R204;
 ValeurCmp = 1.2k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543DF0CA;
 Reference = R205;
 ValeurCmp = 47k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543DD40A;
 Reference = R206;
 ValeurCmp = 10k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543E379D;
 Reference = R207;
 ValeurCmp = 100;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543DD364;
 Reference = R208;
 ValeurCmp = 10;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543DA821;
 Reference = R209;
 ValeurCmp = 1.5k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543DA763;
 Reference = R210;
 ValeurCmp = 2.2k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543DE1E2;
 Reference = R211;
 ValeurCmp = 10k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543E436B;
 Reference = R212;
 ValeurCmp = 1.2k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543DCE0C;
 Reference = R213;
 ValeurCmp = 470;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543DA651;
 Reference = R214;
 ValeurCmp = 1k;
-IdModule  = Newlib:RESA_D20L40;
+IdModule  = Newlib:RESR_D40P50;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543D9DC8;
 Reference = R215;
 ValeurCmp = 250;
-IdModule  = Newlib:RM-65;
+IdModule  = Newlib:POT-3339P;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543D9116;
 Reference = R216;
 ValeurCmp = 18;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543D9852;
 Reference = R217;
 ValeurCmp = 22;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543D9C6A;
 Reference = R218;
 ValeurCmp = 5.6;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543E985B/543D8DDF;
 Reference = R219;
 ValeurCmp = 68;
-IdModule  = Newlib:RESA_D40L110;
+IdModule  = Newlib:RESR_D40P50;
 EndCmp
 
 BeginCmp
@@ -578,7 +578,7 @@ BeginCmp
 TimeStamp = /543E985B/543D7C67;
 Reference = R221;
 ValeurCmp = 15k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
@@ -599,133 +599,133 @@ BeginCmp
 TimeStamp = /543EA632/543E3138;
 Reference = R301;
 ValeurCmp = 82k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543DEF8E;
 Reference = R302;
 ValeurCmp = 120k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543DF159;
 Reference = R303;
 ValeurCmp = 33k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543DEE72;
 Reference = R304;
 ValeurCmp = 1.2k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543DF0CA;
 Reference = R305;
 ValeurCmp = 47k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543DD40A;
 Reference = R306;
 ValeurCmp = 10k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543E379D;
 Reference = R307;
 ValeurCmp = 100;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543DD364;
 Reference = R308;
 ValeurCmp = 10;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543DA821;
 Reference = R309;
 ValeurCmp = 1.5k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543DA763;
 Reference = R310;
 ValeurCmp = 2.2k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543DE1E2;
 Reference = R311;
 ValeurCmp = 10k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543E436B;
 Reference = R312;
 ValeurCmp = 1.2k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543DCE0C;
 Reference = R313;
 ValeurCmp = 470;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543DA651;
 Reference = R314;
 ValeurCmp = 1k;
-IdModule  = Newlib:RESA_D20L40;
+IdModule  = Newlib:RESR_D40P50;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543D9DC8;
 Reference = R315;
 ValeurCmp = 250;
-IdModule  = Newlib:RM-65;
+IdModule  = Newlib:POT-3339P;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543D9116;
 Reference = R316;
 ValeurCmp = 18;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543D9852;
 Reference = R317;
 ValeurCmp = 22;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543D9C6A;
 Reference = R318;
 ValeurCmp = 5.6;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /543EA632/543D8DDF;
 Reference = R319;
 ValeurCmp = 68;
-IdModule  = Newlib:RESA_D40L110;
+IdModule  = Newlib:RESR_D40P50;
 EndCmp
 
 BeginCmp
@@ -739,7 +739,7 @@ BeginCmp
 TimeStamp = /543EA632/543D7C67;
 Reference = R321;
 ValeurCmp = 15k;
-IdModule  = Newlib:C0805;
+IdModule  = Newlib:R0805;
 EndCmp
 
 BeginCmp
